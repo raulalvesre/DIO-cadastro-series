@@ -1,0 +1,16 @@
+/home/raul/Documents/csharp/Raulflix/bin/Debug/net5.0/Raulflix
+/home/raul/Documents/csharp/Raulflix/bin/Debug/net5.0/Raulflix.deps.json
+/home/raul/Documents/csharp/Raulflix/bin/Debug/net5.0/Raulflix.runtimeconfig.json
+/home/raul/Documents/csharp/Raulflix/bin/Debug/net5.0/Raulflix.runtimeconfig.dev.json
+/home/raul/Documents/csharp/Raulflix/bin/Debug/net5.0/Raulflix.dll
+/home/raul/Documents/csharp/Raulflix/bin/Debug/net5.0/ref/Raulflix.dll
+/home/raul/Documents/csharp/Raulflix/bin/Debug/net5.0/Raulflix.pdb
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/Raulflix.csprojAssemblyReference.cache
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/Raulflix.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/Raulflix.AssemblyInfoInputs.cache
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/Raulflix.AssemblyInfo.cs
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/Raulflix.csproj.CoreCompileInputs.cache
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/Raulflix.dll
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/ref/Raulflix.dll
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/Raulflix.pdb
+/home/raul/Documents/csharp/Raulflix/obj/Debug/net5.0/Raulflix.genruntimeconfig.cache

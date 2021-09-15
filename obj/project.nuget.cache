@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8P+MUl91DZMePPgD5pYapLjb8mDEdAp/26Gz2NT1hZ+413kwO97RcC3SzQOltE+IJR7bcUYJjARDQG+d8/UtOg==",
+  "success": true,
+  "projectFilePath": "/home/raul/Documents/csharp/Raulflix/Raulflix.csproj",
+  "expectedPackageFiles": [
+    "/home/raul/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
